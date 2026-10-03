@@ -2,6 +2,9 @@
 
 A small shim+patcher that makes older CE apps to run on WEC2013. Proof of concept - works only with simple apps.
 
+> [!WARNING]
+> This repository won't be updated. This is not a real application; this is a goofy, barely non-working patcher. Do not report issues here or at CERF repository, please.  
+
 ### CE2013 problems
 
 - subsystem version gate in the loader
